@@ -1,0 +1,7 @@
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+_includes/buy_button.html
+_includes/small_buy_button.html
